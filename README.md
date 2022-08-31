@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdeoyeDaniel
 - 👀 I’m interested in wordpress website development, elementor and graphic design
-- 🌱 I’m currently learning how to code using swift
-- 💞️ I’m looking to collaborate on Wordpress websites
+- 🌱 I’m currently learning how to code using swift and JS
+- 💞️ I’m looking to collaborate on Wordpress websites, HTML, CSS and JS
 - 📫 How to reach me kukulaja19@gmail.com
 
 <!---
